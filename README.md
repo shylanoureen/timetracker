@@ -29,5 +29,6 @@ dest           | source
 ```
 
 ## Generated stats
+good night
 
 Stats are generated for downloads (using https://github.com/ActivityWatch/stats/) and contributor statistics (using https://github.com/ActivityWatch/contributor-stats).
